@@ -4,6 +4,10 @@ on:
   repository_dispatch:
     types: update-tokens
 
+permissions:
+  pull-requests: write
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
