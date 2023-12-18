@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 17 Dec 2023 13:25:53 GMT
+ * Generated on Mon, 18 Dec 2023 13:55:40 GMT
  */
 
 :root {
@@ -13,6 +13,8 @@
   --color-gray-800: #1c1c1f;
   --color-gray-900: #121214;
   --color-purple-500: #8257e6;
+  --color-red-800: #ff4b4b;
+  --color-red-900: #ff0000;
   --font-label: [object Object];
   --typography-label-font-size: 16;
   --typography-label-text-decoration: none;

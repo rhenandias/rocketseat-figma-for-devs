@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 17 Dec 2023 13:25:53 GMT
+ * Generated on Mon, 18 Dec 2023 13:55:40 GMT
  */
 
 module.exports = {
@@ -13,6 +13,8 @@ module.exports = {
   "ColorGray800": "#1c1c1f",
   "ColorGray900": "#121214",
   "ColorPurple500": "#8257e6",
+  "ColorRed800": "#ff4b4b",
+  "ColorRed900": "#ff0000",
   "FontLabel": {"fontSize":16,"textDecoration":"none","fontFamily":"Roboto","fontWeight":400,"fontStyle":"normal","fontStretch":"normal","letterSpacing":0,"lineHeight":19.2,"paragraphIndent":0,"paragraphSpacing":0,"textCase":"none"},
   "TypographyLabelFontSize": 16,
   "TypographyLabelTextDecoration": "none",
